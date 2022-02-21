@@ -4,5 +4,4 @@
 - 📺 I'm looking to collaborate on Python projects related to media and audience ratings.
 - 📫 You can reach me at ricardogalonso@hotmail.com
 - 👨‍💼 More than 25 years of experience in managing processes and multidisciplinary teams. Experience in modelling, analysis, and management of processes with extensive experience in projects and implementation of IT systems. Focus on business development and growth through knowledge of the market, constant innovation of products, processes, and effective management of human and technological resources.
-- 🖱 I am now working with Dynamics 365 as a Consultant Developer at AlfaPeople Canada.
-- 
+- 💻 I am now working with Dynamics 365 as a Consultant Developer at AlfaPeople Canada.
